@@ -1,1 +1,8 @@
+body {
+	background: rgb(0, 200, 200);
+}
 
+canvas {
+	display: block;
+	margin: auto;
+}
