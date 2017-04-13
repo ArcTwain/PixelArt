@@ -28,9 +28,9 @@ var mapColor = function (pixel) {
 }
 
 function setup() {
-  var s = (sideLength + borderTiles * 2) * tileSize;
-  createCanvas(s, s);
-  noStroke();
+	var s = (sideLength + borderTiles * 2) * tileSize;
+	createCanvas(s, s);
+	noStroke();
 	background(backColor);
 }
 
@@ -39,18 +39,16 @@ function draw() {
 	// Retrieve next frame
 	var mapArray = dataStr[i%2];
 	
-  var offset = borderTiles * tileSize;
-  translate(offset, offset);
+  	var offset = borderTiles * tileSize;
+  	translate(offset, offset);
 
 	for (var y = 0; y < sideLength; y++) { 
 		for (var x = 0; x < sideLength; x++) {
-
 			pixel = parseInt(mapArray[x + y * sideLength]);  
 			fill(mapColor(pixel));
 			rect(x * tileSize, y * tileSize, tileSize, tileSize);
-
-  	}		
-  }
+  		}
+	}
 	
 	i++;
  	frameRate(5);
