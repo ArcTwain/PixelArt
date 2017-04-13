@@ -34,26 +34,25 @@ portrait = [
 
 
 function setup() {
-  var s = (sideLength + borderTiles * 2) * tileSize;
-  createCanvas(s, s);
-  noStroke();
-	background(30);
+	var s = (sideLength + borderTiles * 2) * tileSize;
+	createCanvas(s, s);
+ 	noStroke();
+ 	background(30);
 }
 
 function draw() {
 	var pixel;
-  var offset = borderTiles * tileSize;
-  translate(offset, offset);
-  for (var y = 0; y < sideLength; y++) {
-    for (var x = 0; x < sideLength; x++) {
+	var offset = borderTiles * tileSize;
+	translate(offset, offset);
+	for (var y = 0; y < sideLength; y++) {
+  		for (var x = 0; x < sideLength; x++) {
 			pixel = portrait[x + y * sideLength];
-      if (pixel > 0) {
-				
+      		if (pixel > 0) {		
 				if(pixel===1) {
-				fill(random(250),random(250),random(250));
+					fill(random(250),random(250),random(250));
 				} else fill(0);
-				
-				rect(x * tileSize, y * tileSize, tileSize, tileSize);
+
+			rect(x * tileSize, y * tileSize, tileSize, tileSize);
       }
     }
   }
