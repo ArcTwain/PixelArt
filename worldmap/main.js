@@ -7,20 +7,20 @@ var dataStr = '00000000000000000000000000000000000010000001000001100000000000000
 var mapArray = dataStr.split("");	
 
 var mapColor = function (min, max) {
-  return Math.random() * (max - min) + min;
+  	return Math.random() * (max - min) + min;
 }
 
 function setup() {
-  var s = (sideLength + borderTiles * 2) * tileSize;
-  createCanvas(s, s);
-  stroke(100);
+  	var s = (sideLength + borderTiles * 2) * tileSize;
+  	createCanvas(s, s);
+  	stroke(100);
 	background(25,25,112);
 }
 
 function draw() {
 	var pixel;
-  var offset = borderTiles * tileSize;
-  translate(offset, offset);
+  	var offset = borderTiles * tileSize;
+  	translate(offset, offset);
   
 	for (var y = 0; y < sideLength; y++) { 
 		for (var x = 0; x < sideLength; x++) {
@@ -32,11 +32,8 @@ function draw() {
 				//uncomment below for color
 				//fill(random(250),random(250),random(250));
 				rect(x * tileSize, y * tileSize, tileSize, tileSize);
-      }
-			
-    }
-  }
-	
+			}		
+   		}
+  	}
  frameRate(5);
-	
 }
