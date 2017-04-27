@@ -6,7 +6,7 @@ Demos on CodePen:
   * [_FLOWER ROTATION_](https://codepen.io/TWAIN/full/xqjXOw/)
   * [_LENS ILLUSION_](https://codepen.io/TWAIN/full/evxyyw/)
   * [_MANDALA OUTLINE_](https://codepen.io/TWAIN/full/vxzzvM/)
-  * [_RIPPLES_](https://codepen.io/TWAIN/pen/jBYzGa)
+  * [_RIPPLES_](https://codepen.io/TWAIN/full/jBYzGa/)
   * [_WAVE_](https://codepen.io/TWAIN/full/34b89043add9e24eef06c6c485d5ac2d/)
   * [_WEB SPIRAL_](https://codepen.io/TWAIN/full/aJEemb/)
 
