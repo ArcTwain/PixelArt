@@ -1,15 +1,14 @@
 
 Demos on CodePen:
-<ul>
-  <li>[_CIRCLES_](https://codepen.io/TWAIN/full/OpdzOz/)</li>
-  <li>[_FAN LOADER_](https://codepen.io/TWAIN/full/mWjPKm/)</li>
-  <li>[_FLOWER ROTATION_](https://codepen.io/TWAIN/full/xqjXOw/)</li>
-  <li>[_LENS ILLUSION_](https://codepen.io/TWAIN/details/evxyyw/)</li>
-  <li>[_MANDALA OUTLINE_](https://codepen.io/TWAIN/full/vxzzvM/</li>
-  <li>[_RIPPLES_](https://codepen.io/TWAIN/pen/jBYzGa)</li>
-  <li>[_WAVE_](https://codepen.io/TWAIN/full/34b89043add9e24eef06c6c485d5ac2d/)</li>
-  <li>[_WEB SPIRAL_](https://codepen.io/TWAIN/full/aJEemb/)</li>
-</ul>
+
+  * [_CIRCLES_](https://codepen.io/TWAIN/full/OpdzOz/)
+  * [_FAN LOADER_](https://codepen.io/TWAIN/full/mWjPKm/)
+  * [_FLOWER ROTATION_](https://codepen.io/TWAIN/full/xqjXOw/)
+  * [_LENS ILLUSION_](https://codepen.io/TWAIN/details/evxyyw/)
+  * [_MANDALA OUTLINE_](https://codepen.io/TWAIN/full/vxzzvM/)
+  * [_RIPPLES_](https://codepen.io/TWAIN/pen/jBYzGa)
+  * [_WAVE_](https://codepen.io/TWAIN/full/34b89043add9e24eef06c6c485d5ac2d/)
+  * [_WEB SPIRAL_](https://codepen.io/TWAIN/full/aJEemb/)
 
 Based on the same program to render a pixel drawing on canvas:
 
