@@ -1,6 +1,6 @@
 Links to demos on CodePen:
 
-[_WAVE_](https://codepen.io/TWAIN/pen/34b89043add9e24eef06c6c485d5ac2d)
+[_WAVE_](https://codepen.io/TWAIN/full/34b89043add9e24eef06c6c485d5ac2d/)
 
 Based on the same program to render a pixel drawing on canvas:
 
