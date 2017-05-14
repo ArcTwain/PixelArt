@@ -1,4 +1,3 @@
-
 var i, p = 0.75, numCirc = 15;
 
 function setup() {
