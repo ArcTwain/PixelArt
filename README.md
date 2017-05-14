@@ -9,6 +9,8 @@ Demos on CodePen:
   * [_RIPPLES_](https://codepen.io/TWAIN/full/jBYzGa/)
   * [_WAVE_](https://codepen.io/TWAIN/full/34b89043add9e24eef06c6c485d5ac2d/)
   * [_WEB SPIRAL_](https://codepen.io/TWAIN/full/aJEemb/)
+  * [_HEXAGON FADE_](https://codepen.io/TWAIN/full/RVjGYN/)
+ 
 
 Based on the same program to render a pixel drawing on canvas:
 
