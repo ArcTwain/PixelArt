@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	background: url('camera.png') no-repeat, #000;
+}
+
+canvas {
+	display: block;
+	position: absolute;
+	border-radius: 50%;
+	opacity: .8;
+	left: 21.5em;
+	top: 7.6em;
+}
